@@ -1,0 +1,10 @@
+"filename", "language", "Makefile", "Markdown", "C++", "Log", "comment", "blank", "total"
+"/home/stayal/code/2022/0824/08.singleton_1.cpp", "C++", 0, 0, 72, 0, 3, 19, 94
+"/home/stayal/code/2022/0824/08.singleton_2.cpp", "C++", 0, 0, 70, 0, 1, 18, 89
+"/home/stayal/code/2022/0825/01.simpleauto.cc", "C++", 0, 0, 26, 0, 1, 9, 36
+"/home/stayal/code/2022/0825/01.simpleauto2.cc", "C++", 0, 0, 21, 0, 0, 7, 28
+"/home/stayal/code/2022/0825/01.test.cc", "C++", 0, 0, 42, 0, 3, 16, 61
+"/home/stayal/code/2022/Makefile", "Makefile", 11, 0, 0, 0, 8, 5, 24
+"/home/stayal/code/2022/README.md", "Markdown", 0, 1, 0, 0, 0, 0, 1
+"/home/stayal/code/2022/file.log", "Log", 0, 0, 0, 12, 0, 2, 14
+"Total", "-", 11, 1, 231, 12, 16, 76, 347

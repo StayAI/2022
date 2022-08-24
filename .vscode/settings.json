@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "random": "cpp",
+        "type_traits": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp"
+    },
+    "clang-format.executable": "/usr/bin/clang-format",
+    "clang-format.assumeFilename": "/home/stayal/code/config/.clang-format",
+    "clang-format.fallbackStyle": "Google",
+}

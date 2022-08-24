@@ -1,0 +1,13 @@
+.
+├── 0824
+│   ├── 08.singleton_1.cpp
+│   └── 08.singleton_2.cpp
+├── 0825
+│   ├── 01.simpleauto2.cc
+│   ├── 01.simpleauto.cc
+│   └── 01.test.cc
+├── build
+├── file.log
+└── Makefile
+
+3 directories, 7 files
