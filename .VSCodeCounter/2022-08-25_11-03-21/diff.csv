@@ -1,0 +1,7 @@
+"filename", "language", "Log", "C++", "comment", "blank", "total"
+"/home/stayal/code/2022/0825/01.test.cc", "C++", 0, -42, -3, -16, -61
+"/home/stayal/code/2022/0825/integral_constant.cc", "C++", 0, 42, 3, 16, 61
+"/home/stayal/code/2022/0826/EffectiveModernC++23.cc", "C++", 0, 68, 0, 19, 87
+"/home/stayal/code/2022/0826/EffectiveModernC++24.cc", "C++", 0, 33, 3, 13, 49
+"/home/stayal/code/2022/file.log", "Log", 4, 0, 0, 0, 4
+"Total", "-", 4, 101, 3, 32, 140

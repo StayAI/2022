@@ -5,9 +5,13 @@
 ├── 0825
 │   ├── 01.simpleauto2.cc
 │   ├── 01.simpleauto.cc
-│   └── 01.test.cc
+│   └── integral_constant.cc
+├── 0826
+│   ├── EffectiveModernC++23.cc
+│   └── EffectiveModernC++24.cc
 ├── build
 ├── file.log
-└── Makefile
+├── Makefile
+└── README.md
 
-3 directories, 7 files
+4 directories, 10 files

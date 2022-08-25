@@ -9,8 +9,8 @@ build: lint
 	# ./build/01.simpleauto
 	# g++ ./0825/01.simpleauto2.cc -o ./build/01.simpleauto2
 	# ./build/01.simpleauto2
-	g++ ./0825/01.test.cc -o ./build/01.test
-	./build/01.test
+	g++ ./0825/integral_constant.cc -o ./build/integral_constant
+	./build/integral_constant
 
 lint:
 	cpplint \
