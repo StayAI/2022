@@ -9,8 +9,12 @@ build: lint
 	# ./build/01.simpleauto
 	# g++ ./0825/01.simpleauto2.cc -o ./build/01.simpleauto2
 	# ./build/01.simpleauto2
-	g++ ./0825/integral_constant.cc -o ./build/integral_constant
-	./build/integral_constant
+
+	# g++ ./0825/integral_constant.cc -o ./build/integral_constant
+	# ./build/integral_constant
+
+	g++ -fno-elide-constructors ./0827/EffectiveModernC++25.cc -o ./build/EffectiveModernC++25
+	./build/EffectiveModernC++25
 
 lint:
 	cpplint \
